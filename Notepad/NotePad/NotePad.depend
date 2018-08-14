@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1523558414 source:c:\users\sharanya.hp\desktop\sharanya\c and c++\notepad\notepad\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+

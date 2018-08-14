@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1524414880 source:c:\users\sharanya.hp\desktop\sharanya\c and c++\notepad\practice\mian2.c
+	<stdio.h>
+	<string.h>
+
+1524410050 source:c:\users\sharanya.hp\desktop\sharanya\c and c++\notepad\practice\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
